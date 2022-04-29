@@ -1,0 +1,276 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Source Sans Pro', sans-serif; 
+}
+.container{
+    margin: auto;
+    width: 100%;
+    margin-right: auto;
+}
+.vep{
+    border-bottom: #bfc0bf 1px;
+}
+.m1{
+    background: black;
+    width: 100%;
+    height: 125px;
+    
+}
+iframe{
+    width: 100%;
+    height: 420px;
+}
+.m3{
+    display: flex;
+    margin-left: 230px;
+}
+.m3 p{
+    margin-left: 30px;
+}
+.m2{
+    display: flex;
+}
+.m2 p{
+    margin-left: 5px;
+}
+.fer{
+    border: #000000 1px solid;
+    background: #69CF17;
+}
+.m4{
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 21px;
+    margin-bottom: 19px;
+}
+.kil{
+    display: flex;
+    justify-content: space-around;
+}
+.header_list{
+    display: flex;
+    list-style: none;
+    padding-top: 18px;
+}
+.header_list1 a:hover{
+    color: rgb(40, 255, 2);
+}
+.f1 img{
+    padding-top: 8px;
+}
+.header_list a{
+    padding: 20px 14px;
+    color: white;
+    text-decoration: none;
+    transition: 0,5s;
+    margin-left: 30px;
+    font-size: 13px;
+}
+.header_list a:hover{
+    background: rgb(13, 167, 7);
+    color: #e4e5e4;
+}
+
+.street{
+    background: url(img/food-burger-wallpaper-preview\ 1@2x.png) center/cover;
+    height: 700px;
+    width: 100%;
+}
+.just p{
+    color: #f0f0ef;
+    max-width: 950px;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.just h1{
+    font-size: 72px;
+    font-weight: 900;
+}
+.just h1,h2{
+    color: #69CF17;
+    margin-bottom: 18px;
+}
+.just{
+    margin-left: 150px;
+    padding-top: 167px;
+}
+.rich{
+    background: url(img/bg-price.png);
+    width: 260px;
+    height: 90px;
+    display: block;
+}
+.server{
+    display: flex;
+}
+.rich p{
+    display: flex;
+    justify-content: center;
+    padding-top: 14px;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.kil1{
+    margin-left: 450px;
+    padding-top: 20px;
+}
+.kil1 a{
+    height: 50px;
+    background: #69CF17;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3px;
+    color: white;
+    text-decoration: none;
+    width: 220px;
+}
+
+.aim img{
+    width: 1000px;
+    height: 400px;
+    display: flex;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.a1m p{
+    color: white;
+    max-width: 1000px;
+    text-align: start;
+    display: flex;
+    margin: auto;
+}
+.kil1 a:hover{
+    background: #ee0437;
+}
+.mis{
+    background: black;
+    padding-top: 30px;
+    width: 100%;
+    height: 750px;
+}
+.mis1{
+    background: #292929;
+    width: 100%;
+    height: 65px;
+}
+.header_list1 a{
+    color: rgb(181, 179, 179);
+    text-decoration: none;
+    transition: 0,5s;
+    margin-left: 40px;
+    font-size: 15px;
+}
+.header_list1 li{
+    list-style: none;
+}
+.header_list1{
+    display: flex;
+    padding-top: 25px;
+}
+.deep{
+    background: #393636;
+    width: 100%;
+    height: 980px;
+    margin: auto;
+}
+.wep{
+    margin-left: 15px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.alies p{
+    max-width: 300px;
+    padding-top: 15px;
+    font-size: 19px;
+}
+.alies{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.alies{
+    color: white;
+}
+
+.lef img{
+    width: 280px;
+    display: flex;
+    margin: auto;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+
+.lef1{
+    background: #0C0C0C;
+    width: 300px;
+    height: 470px;
+    border: #e4e5e4 1px solid;
+    display: grid;
+    margin-bottom: 15px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.sel{
+    background: #e4e5e4;
+    width: 100%;
+    height: 80px;
+}
+.sel h1{
+    text-align: center;
+    padding-top: 10px;
+    color: #69CF17;
+    font-size: 50px;
+}
+.hud1{
+    width: 100%;
+    background: linear-gradient(180deg, #000000 10%, rgba(41, 246, 0, 0.5) 200%);
+    height: 280px;
+}
+.xud{
+    
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.header_1 a{
+    color: rgb(233, 231, 231);
+    text-decoration: none;
+    transition: 0,5s;
+    margin-left: 40px;
+    font-size: 15px;
+}
+.header_1{
+    padding-top: 15px;
+    margin-left: 300px;
+}
+.header_li a:hover{
+    color: #f80606;
+}
+.header_li a{
+    color: rgb(233, 231, 231);
+    text-decoration: none;
+    transition: 0,5s;
+    margin-left: 40px;
+    font-size: 15px;
+}
+.header_li{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    padding-top: 80px;
+}
+.mis9{
+    background: #1A3406;
+    width: 100%;
+    height: 57px;
+}
+.mis9 p{
+    text-align: center;
+    color: #bfc0bf;
+    padding-top: 19px;
+    font-size: 15px;
+}
